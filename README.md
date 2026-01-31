@@ -5,7 +5,7 @@ I'm not consistent either
 
 I'm just curious
 
-This repository might be the place where i dump things I've explored... Tried to understand or messed around with...
+This repository might be the place where i dump things I've explored... Tried to understand... Or Learned
 
 No promise
 No expectations

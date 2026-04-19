@@ -11,7 +11,7 @@ Immersive React + Three.js (React Three Fiber) website concept for **Chillin** e
 ## Local setup
 
 ```bash
-cd /home/runner/work/What-I-Do/What-I-Do/chillin-site
+cd chillin-site
 npm install
 npm run dev
 ```
